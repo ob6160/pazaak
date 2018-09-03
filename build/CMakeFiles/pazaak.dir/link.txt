@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pazaak.dir/main.cpp.o CMakeFiles/pazaak.dir/pazaak.cpp.o CMakeFiles/pazaak.dir/card.cpp.o CMakeFiles/pazaak.dir/player.cpp.o CMakeFiles/pazaak.dir/button.cpp.o  -o pazaak /usr/lib/libSDL2main.a /usr/lib/libSDL2.so -lpthread /usr/lib/libSDL2_image.so /usr/lib/libSDL2_ttf.so 
